@@ -9,5 +9,7 @@ https://api-assignments.herokuapp.com/api/assignments
 
 Run projet :
 ````
+npm install
+
 node server.js
 ````
