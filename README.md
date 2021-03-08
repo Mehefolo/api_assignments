@@ -5,3 +5,9 @@ Cet API permet de lister des assignments, ajouter les assignments et les supprim
 Lien d'hebergement heroku pour les tests :
 
 https://api-assignments.herokuapp.com/api/assignments
+
+
+Run projet :
+````
+node server.js
+````
